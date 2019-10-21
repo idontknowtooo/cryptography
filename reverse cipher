@@ -1,0 +1,9 @@
+message = 'there can keep a secrept, if two of them are dead'
+translated = ''
+i = len(message)-1
+while i>=0:
+    trabslated = translate + message[i]
+    print(i,message[i],translalted)
+    
+ print(translated)
+   
